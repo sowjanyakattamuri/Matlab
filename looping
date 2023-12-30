@@ -1,0 +1,11 @@
+# range="mine"
+# for i in range:
+#     print(i)
+# kiran =1
+# while kiran>0:
+#     print("hi")
+#     kiran+=1
+for i in range(1,10):
+    for j in range(2,5):
+     print(i+j)
+    
