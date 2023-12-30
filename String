@@ -1,0 +1,15 @@
+# a="python"
+# b='python'
+# c='''python'''
+# print(type(a))
+# a="APPLE A"
+# print(a.lower())
+# print(a.endswith("A"))
+# print(a.startswith("A"))
+# print(a.replace("L","B"))
+# print(a.find("P"))
+# print(a.count("L"))
+# print(a.removesuffix("A"))
+a="  cat  "
+print(a.strip())
+print(len(a))
