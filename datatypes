@@ -1,0 +1,9 @@
+a=1
+b=-1
+print(type(a),type(b))
+a=True
+print(True==1)
+print(False==1)
+v=1+3j
+print(type(v))
+print(float(b))
