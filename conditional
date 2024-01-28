@@ -1,0 +1,14 @@
+# print("e")
+# if False:
+#     print("g")
+#     if True:
+#         print("k")
+# else:
+#     print("i")    
+# age=18
+# if age>18:
+#     print('you can vote')
+# elif age==18:
+#     print('u can vote')
+# else:
+#     print("wait")
